@@ -1,4 +1,4 @@
-module github.com/joshsagredo/syn-flood
+module github.com/esonhugh/syn-flood
 
 go 1.20
 

@@ -6,12 +6,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/joshsagredo/syn-flood/pkg/options"
+	"github.com/esonhugh/syn-flood/pkg/options"
 
 	"github.com/dimiro1/banner"
-	"github.com/joshsagredo/syn-flood/pkg/logging"
-	"github.com/joshsagredo/syn-flood/pkg/raw"
-	"github.com/joshsagredo/syn-flood/pkg/version"
+	"github.com/esonhugh/syn-flood/pkg/logging"
+	"github.com/esonhugh/syn-flood/pkg/raw"
+	"github.com/esonhugh/syn-flood/pkg/version"
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 )
