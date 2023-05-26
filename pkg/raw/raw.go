@@ -7,7 +7,7 @@ import (
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
-	"github.com/joshsagredo/syn-flood/internal/logging"
+	"github.com/joshsagredo/syn-flood/pkg/logging"
 	"github.com/pkg/errors"
 	"github.com/schollz/progressbar/v3"
 	"go.uber.org/zap"
